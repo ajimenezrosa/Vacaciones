@@ -15,6 +15,7 @@
 
 ## Índice
 
+- [Direcciones útiles — viaje a Florida (noviembre de 2026)](#direcciones-útiles--viaje-a-florida-noviembre-de-2026)
 - [Resumen del viaje](#resumen-del-viaje)
 - [Itinerario día por día](#itinerario-día-por-día)
 - [Restaurantes, cafés y lugares para comer](#restaurantes-cafés-y-lugares-para-comer)
@@ -22,6 +23,18 @@
 - [Atracciones pagas](#atracciones-pagas)
 - [Consejos prácticos](#consejos-prácticos)
 - [Enlaces oficiales útiles](#enlaces-oficiales-útiles)
+
+---
+
+## Direcciones útiles — viaje a Florida (noviembre de 2026)
+
+> **Privacidad:** este repositorio es público. Estas direcciones residenciales se muestran públicamente en GitHub.
+
+| Lugar | Dirección | Navegación |
+|---|---|---|
+| Casa de mi cuñada (Miami / Kendall) | 13551 SW 64th Ln, Miami, FL 33183, USA | [Abrir en Google Maps](https://www.google.com/maps/search/?api=1&query=13551%20SW%2064th%20Ln%2C%20Miami%2C%20FL%2033183%2C%20USA) |
+| Casa de mi hermana (Kissimmee) | 1260 Windway Cir, Kissimmee, FL 34744, USA | [Abrir en Google Maps](https://www.google.com/maps/search/?api=1&query=1260%20Windway%20Cir%2C%20Kissimmee%2C%20FL%2034744%2C%20USA) |
+| Hotel en Orlando (estancia desde el 27 de noviembre) | 9000 International Dr, Orlando, FL 32819, USA | [Abrir en Google Maps](https://www.google.com/maps/search/?api=1&query=9000%20International%20Dr%2C%20Orlando%2C%20FL%2032819%2C%20USA) |
 
 ---
 
