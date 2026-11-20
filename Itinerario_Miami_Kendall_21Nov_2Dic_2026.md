@@ -3,7 +3,14 @@
 
 
 
-## 📍 Direcciones importantes — Familia y alojamiento
+## 📍 Direcciones importantes — Iglesia, familia y alojamiento
+
+### ⛪ Iglesia de Alex Pastor
+
+**Dirección proporcionada:** 6500 SW 97th Ave  
+[🧭 Abrir ubicación en Google Maps](https://www.google.com/maps/search/?api=1&query=6500%20SW%2097th%20Ave)
+
+
 
 ### 🏠 Casa de mi cuñada — Kendall
 
