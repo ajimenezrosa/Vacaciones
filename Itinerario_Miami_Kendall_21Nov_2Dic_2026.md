@@ -2,6 +2,27 @@
 
 
 
+
+## 📍 Direcciones importantes — Familia y alojamiento
+
+### 🏠 Casa de mi cuñada — Kendall
+
+**Dirección:** 13551 SW 64th Ln, Miami, FL 33183, USA  
+[🧭 Abrir ubicación en Google Maps](https://www.google.com/maps/search/?api=1&query=13551%20SW%2064th%20Ln%2C%20Miami%2C%20FL%2033183%2C%20USA)
+
+### 🏠 Casa de mi hermana — Kissimmee
+
+**Dirección:** 1260 Windway Cir, Kissimmee, FL 34744, USA  
+[🧭 Abrir ubicación en Google Maps](https://www.google.com/maps/search/?api=1&query=1260%20Windway%20Cir%2C%20Kissimmee%2C%20FL%2034744%2C%20USA)
+
+### 🏨 Hotel — Orlando (desde el 27 de noviembre)
+
+**Dirección:** 9000 International Dr, Orlando, FL 32819, USA  
+[🧭 Abrir ubicación en Google Maps](https://www.google.com/maps/search/?api=1&query=9000%20International%20Dr%2C%20Orlando%2C%20FL%2032819%2C%20USA)
+**Nota de itinerario:** La estancia en Orlando indicada para el 27 de noviembre coincide con el plan original de Black Friday en Miami. Confirma qué actividades realizarás antes de trasladarte a Orlando.
+
+---
+
 \> **\*\*Base:\*\*** Kendall, Miami, Florida &#x20;
 
 \> **\*\*Llegada:\*\*** sábado 21 de noviembre de 2026 &#x20;
